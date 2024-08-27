@@ -1,2 +1,2 @@
 # EdyPelerGedi
-a
+Mana Tahan Edyy
