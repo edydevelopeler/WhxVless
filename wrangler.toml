@@ -2,7 +2,6 @@ name = "%worker_name%"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
-  { pattern = "%subdomain_name%", custom_domain = true },
   { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true },
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
@@ -20,7 +19,7 @@ routes = [
   { pattern = "s.blibli.com.%subdomain_name%", custom_domain = true },
   { pattern = "cf.shopee.co.id.sea-sw.swiftserve.com.%subdomain_name%", custom_domain = true },
   { pattern = "linefriends.com.%subdomain_name%", custom_domain = true },
-  { pattern = "server-microsoft.com.%subdomain_name%", custom_domain = true }
+  { pattern = "microsoft.com.%subdomain_name%", custom_domain = true }
   
 ]
 workers_dev = false
