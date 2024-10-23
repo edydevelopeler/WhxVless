@@ -3,6 +3,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
   { pattern = "%subdomain_name%", custom_domain = true },
+  { pattern = "%subdomain_name%", custom_domain = true },
   { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
   { pattern = "cache.netflix.com.%subdomain_name%", custom_domain = true },
