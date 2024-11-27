@@ -31,8 +31,7 @@ routes = [
   { pattern = "microsoft.com.%subdomain_name%", custom_domain = true },
   { pattern = "edu.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "sogood.linefriends.com.%subdomain_name%", custom_domain = true },
-  { pattern = "onelink.seabank.co.id.%subdomain_name%", custom_domain = true },
-  { pattern = "npca.netflix.com.%subdomain_name%", custom_domain = true }
+  { pattern = "onelink.seabank.co.id.%subdomain_name%", custom_domain = true }
 ]
 workers_dev = false
 [vars]
