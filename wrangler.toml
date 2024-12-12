@@ -27,7 +27,6 @@ routes = [
   { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "df.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "data.mt.%subdomain_name%", custom_domain = true },
-  { pattern = "microsoft.com.%subdomain_name%", custom_domain = true },
   { pattern = "edu.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "sogood.linefriends.com.%subdomain_name%", custom_domain = true },
   { pattern = "onelink.seabank.co.id.%subdomain_name%", custom_domain = true },
