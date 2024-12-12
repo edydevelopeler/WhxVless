@@ -21,7 +21,6 @@ routes = [
   { pattern = "api.blibli.com.%subdomain_name%", custom_domain = true },
   { pattern = "live.iflix.com.%subdomain_name%", custom_domain = true },
   { pattern = "s.blibli.com.%subdomain_name%", custom_domain = true },
-  { pattern = "cf.shopee.co.id.sea-sw.swiftserve.com.%subdomain_name%", custom_domain = true },
   { pattern = "email.udemy.com.%subdomain_name%", custom_domain = true },
   { pattern = "info.udemy.com.%subdomain_name%", custom_domain = true },
   { pattern = "api.midtrans.com.%subdomain_name%", custom_domain = true },
