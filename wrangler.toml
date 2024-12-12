@@ -9,7 +9,6 @@ routes = [
   { pattern = "io.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "belajar.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "bimbel.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
   { pattern = "zaintest.vuclip.com.%subdomain_name%", custom_domain = true },
   { pattern = "quiz.int.vidio.com.%subdomain_name%", custom_domain = true },
   { pattern = "quiz.staging.vidio.com.%subdomain_name%", custom_domain = true },
