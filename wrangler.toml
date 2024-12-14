@@ -10,9 +10,7 @@ routes = [
   { pattern = "img.email1.vidio.com.%subdomain_name%", custom_domain = true },
   { pattern = "data.mt.%subdomain_name%", custom_domain = true },
   { pattern = "bimbel.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true },
-  { pattern = "edylegam.com.%subdomain_name%", custom_domain = true }
-
+  { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true }
 ]
 workers_dev = false
 [vars]
